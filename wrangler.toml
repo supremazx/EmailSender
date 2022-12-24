@@ -7,7 +7,7 @@ compatibility_date = "2030-12-17"
 
 # Authentication
 USER = "admin"
-PASSWORD = "SuperSecurePasswordHere123!"
+PASSWORD = "dananinkuyrugu"
 
 # Email
 EMAIL = "no-replay@example.com"
