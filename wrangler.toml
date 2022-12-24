@@ -1,7 +1,7 @@
 name = "email-sender"
 main = "src/index.js"
 
-compatibility_date = "2022-12-17"
+compatibility_date = "2030-12-17"
 
 [vars]
 
