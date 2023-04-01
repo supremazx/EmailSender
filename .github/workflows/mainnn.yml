@@ -1,0 +1,19 @@
+- name: Cloudflare Pages GitHub Action
+  # You may pin to the exact commit or the version.
+  # uses: cloudflare/pages-action@61eafe73baad0195ab582cb447b2c6e15a0df9ce
+  uses: cloudflare/pages-action@v1.4.1
+  with:
+    # Cloudflare API Token
+    apiToken: 
+    # Cloudflare Account ID
+    accountId: 
+    # The name of the Pages project to upload to
+    projectName: 
+    # The directory of static assets to upload
+    directory: 
+    # GitHub Token
+    gitHubToken: # optional
+    # The name of the branch you want to deploy to
+    branch: # optional
+    # The working directory in which to run Wrangler
+    workingDirectory: # optional
